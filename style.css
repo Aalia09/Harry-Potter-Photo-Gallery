@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.harry{
+  height: 300px;
+    width: 300px;
+}
+#potter{
+    height: 500px;
+    width: 1300px;
+    padding: 20px;
+}
+
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+    padding: 20px;
+}
+
+
+
